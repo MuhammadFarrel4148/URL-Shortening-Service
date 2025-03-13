@@ -22,7 +22,7 @@ API yang dibangun menggunakan RESTful API untuk melakukan shorten kepada long UR
 ### Table shorturl
 ```json
 {
-    "id": "string(15) PRIMARY KEY",
+    "id": "string(16) PRIMARY KEY",
     "originalURL": "string(255)",
     "shortURL": "string(6)",
     "createdAt": "TIMESTAMP",
