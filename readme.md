@@ -51,4 +51,4 @@ API yang dibangun menggunakan RESTful API untuk melakukan shorten kepada long UR
 ## Reference Project
 - ([roadmap.sh](https://roadmap.sh/projects/url-shortening-service))
 
-[architecture]: URL-Shortening-Service\url-shorten-architecture.png
+[architecture]: url-shorten-architecture.png
