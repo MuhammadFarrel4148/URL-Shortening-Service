@@ -1,7 +1,7 @@
 # URL Shortening Service
 API yang dibangun menggunakan RESTful API untuk melakukan shorten kepada long URL.
 
-![Cara Kerja](Cara_Kerja_Shorten_URL)
+![Cara Kerja][url-shorten-architecture.png]
 
 ## Fitur Utama
 - **Dapat melakukan short URL**
@@ -50,5 +50,3 @@ API yang dibangun menggunakan RESTful API untuk melakukan shorten kepada long UR
 
 ## Reference Project
 - ([roadmap.sh](https://roadmap.sh/projects/url-shortening-service))
-
-[Cara_Kerja_Shorten_URL]: url-shorten-architecture.png
